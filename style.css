@@ -1,0 +1,19 @@
+.h{
+    width: 80%;
+    font-size: 22px;
+    background-color: #4682B4;
+}
+body{
+    color: antiquewhite;
+    background-color: #C71585;
+    font-family: "Oswald";
+}
+#o,#objn,#acc{
+    color: #000080;
+    font-size: 20px;
+}
+#camera,#result{
+    border: 2px dashed #FFDAB9;
+    width: 350px;
+    height: 300px;
+}
